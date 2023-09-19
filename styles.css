@@ -1,21 +1,25 @@
-body {
+/* body {
   background-color: antiquewhite;
 }
-.content-box {
-  box-sizing: content-box;
+.box {
   border: 8px solid black;
   margin: 16px;
   padding: 16px;
   width: 512;
   height: 128px;
+}
+.content {
+  box-sizing: content-box;
   background-color: aquamarine;
 }
-.border-box {
+.border {
   box-sizing: border-box;
-  border: 8px solid black;
-  margin: 16px;
-  padding: 16px;
-  width: 512;
-  height: 128px;
   background-color: azure;
 }
+.rectangle {
+  font-size: 24px;
+  background-color: bisque;
+  width: 420px;
+  height: 140px;
+  padding: 20px;
+} */
